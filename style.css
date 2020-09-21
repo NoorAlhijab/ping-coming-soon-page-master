@@ -151,9 +151,6 @@ form.error input {
         width: calc(100% - 80px);
         margin-bottom: 0px;
     }
-    footer {
-        margin-top: 0px;
-    }
     small{
         bottom: 40%;
         left:20%;  
